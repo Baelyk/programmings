@@ -1,0 +1,19 @@
+{
+  "name": "programmings",
+  "version": "0.0.0",
+  "description": "Programming snippets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Baelyk/programmings.git"
+  },
+  "author": "Baelyk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Baelyk/programmings/issues"
+  },
+  "homepage": "https://github.com/Baelyk/programmings#readme"
+}
